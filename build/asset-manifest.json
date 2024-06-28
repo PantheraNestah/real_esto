@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b895b32f.css",
+    "main.js": "/static/js/main.d1889c24.js",
+    "static/js/453.c54492fd.chunk.js": "/static/js/453.c54492fd.chunk.js",
+    "static/media/hero_bg.jpg": "/static/media/hero_bg.a7c67f0ee6475247ae80.jpg",
+    "static/media/real_esto_img5.jpg": "/static/media/real_esto_img5.ad67c00a85952d30e6d5.jpg",
+    "static/media/real_esto_img6.jpg": "/static/media/real_esto_img6.ed76b537b43a22e974a0.jpg",
+    "index.html": "/index.html",
+    "main.b895b32f.css.map": "/static/css/main.b895b32f.css.map",
+    "main.d1889c24.js.map": "/static/js/main.d1889c24.js.map",
+    "453.c54492fd.chunk.js.map": "/static/js/453.c54492fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b895b32f.css",
+    "static/js/main.d1889c24.js"
+  ]
+}
